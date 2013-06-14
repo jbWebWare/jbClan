@@ -39,6 +39,23 @@ Upload this plugin into your 'e107_plugins' folder, then go to the 'Plugin Manag
 Changelog:
 ===============
 
+Version 3.02.03:
+
+    New/Added Features:
+    - None
+    
+    Altered Features:
+    - None
+    
+    Bugs Fixed:
+    - None
+
+    Minor Changes:
+    - Issue #2: Change plugin icons
+    - Hosting plugins on Github: https://github.com/jbwebware/jbClan
+    
+===============================================================
+
 Version 3.02.02:
 
     New/Added Features:

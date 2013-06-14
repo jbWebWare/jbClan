@@ -42,6 +42,21 @@ Upload this into your 'e107_plugins' folder, then go to the 'Plugin Manager' loc
 Changelog:
 ===============
 
+Version 3.02.03:
+
+    New/Added Features:
+    - None
+    
+    Altered Features:
+    - None
+    
+    Bugs Fixed:
+    - Issue #1: Getting 'You Do Not Have Permission To View This Page!!!' error
+
+    Minor Changes:
+    - Issue #2: Change plugin icons
+    - Hosting plugins on Github: https://github.com/jbwebware/jbClan
+    
 Version 3.02.02:
 
     New/Added Features:

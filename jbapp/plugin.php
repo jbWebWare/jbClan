@@ -26,7 +26,7 @@ if (!defined('e107_INIT')) {
 require_once("includes/config.constants.php");
 
 $eplug_name = "jbApp";
-$eplug_version = "3.02.02";
+$eplug_version = "3.02.03";
 $eplug_author = "Jesse Burns";
 $eplug_url = "http://www.jbwebware.com";
 $eplug_email = "jburns131@jbwebware.com";
