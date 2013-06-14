@@ -37,8 +37,8 @@ $eplug_readme = "readme.txt";
 $eplug_folder = "jbroster_menu";
 $eplug_menu_name = "jbroster_menu";
 $eplug_conffile = "admin_config.php";
-$eplug_icon = $eplug_folder."/images/icon_32.jpg";
-$eplug_icon_small = $eplug_folder."/images/icon_16.jpg";
+$eplug_icon = $eplug_folder."/images/icon_32.png";
+$eplug_icon_small = $eplug_folder."/images/icon_16.png";
 $eplug_caption = "Configure jbRoster";
 
 // Create a link in main menu (yes=TRUE, no=FALSE) -------------------------------------------------------------
