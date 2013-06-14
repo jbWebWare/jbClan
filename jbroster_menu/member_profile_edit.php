@@ -20,7 +20,7 @@
 
 require_once("../../class2.php");
 
-if((getperms("P")) || (USERID == $_GET['member_id'])){ 
+if((getperms("P")) || (USERID == $_GET['member_id']) || (USERID == $_POST['member_id'])){ 
 	
 	require_once(HEADERF);
 	
